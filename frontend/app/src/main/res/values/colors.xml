@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mouad_primary">#2D3436</color>
+    <color name="mouad_primary_dark">#000000</color>
+    <color name="mouad_accent">#00CEC9</color>
+    <color name="mouad_background">#DFE6E9</color>
+    <color name="mouad_text">#2D3436</color>
+    <color name="mouad_error">#D63031</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

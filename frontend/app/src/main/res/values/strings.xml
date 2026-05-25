@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MouadLocalizer</string>
+    <string name="mouad_footer">Réalisé par CHARRAJ Mouad aka ZERO-XR7</string>
+    <string name="mouad_no_location">Aucune position détectée</string>
+    <string name="mouad_btn_send">Envoyer Position</string>
+    <string name="mouad_btn_clear">Effacer Tout</string>
+    <string name="mouad_provider_enabled">Fournisseur %s activé</string>
+    <string name="mouad_provider_disabled">Fournisseur %s désactivé</string>
+    <string name="mouad_error_send">Erreur lors de l\'envoi</string>
+    <string name="mouad_success_send">Position enregistrée !</string>
+</resources>
